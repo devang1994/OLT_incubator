@@ -31,11 +31,11 @@ The current  incubator chamber has been made using a 2mm acrylic sheet, this can
 
 The acrylic sheet sheet has been milled using the [Shapeoko 2](http://docs.shapeoko.com/) Desktop CNC milling machine to make the required holes for fitting in the peltier modules and associated heatsinks as shown in the image below.
 
-<img src="images/CNC.jpg" width=600px>
+<img src="images/CNC.JPG" width=600px>
 
 The individual acrylic sheets are held together using angled holding brackets which were 3d printed using the MakerBot Replicator 3d printer
 
-<img src="images/Chamber.jpg" width=600px>
+<img src="images/Chamber.JPG" width=600px>
 
 ## Development Notes
 
